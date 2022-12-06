@@ -1,16 +1,19 @@
-### Hi there 👋
+<h4 align="center">
+ 
+![image](https://user-images.githubusercontent.com/117679891/205792334-775915a5-6a33-44af-83b4-c25e3a3888e6.png)
 
-<!--
-**pamelalima0/pamelalima0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Seja bem-vindo!❤️ 👩‍💻
+ <br>
+- Analista de infraestrutura NOC 👁‍🗨
+<br>
+- Apaixonada por gatinhos e açaí
+<br>
+  
+<br>
+  
+<div align= "center"> 
+  <a href = "pamela.lima@neon.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pamela-lima-243123216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/profiles/76561199023771826/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  
+</div>
